@@ -1,0 +1,29 @@
+ .head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid red; */
+    background-color:rgb(238, 184, 113);
+    color:rgb(155, 155, 220);
+padding: 20px;
+} 
+.hd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid red; */
+    color:red;
+background-color: aqua;
+position: relative;
+top:200px;
+
+}
+.txt{
+    padding:20px;
+    color: aqua;
+    background-color: rgb(242, 127, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
