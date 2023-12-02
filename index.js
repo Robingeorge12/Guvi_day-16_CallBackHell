@@ -33,4 +33,4 @@ function displayIndependece() {
   document.querySelector("#look").append(tx)
 }
 
-countdown(5, displayIndependece);
+countdown(10, displayIndependece);
